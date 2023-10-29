@@ -61,9 +61,10 @@ No projeto da experiência do usuário de produtos digitais, cenários são desc
 
 [Link para Requisitos e Cenários](Requisitos-Cenarios.md)
 
+🏗️ As informações abaixo ainda estão em construção.
 
-# Requisitos Funcionais
 # Tecnologias Usadas
+
 ## Autores
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
