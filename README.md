@@ -26,10 +26,10 @@
 <!-- prettier-ignore-end -->
 </div>
 
-# Criação de telas para usuários da CDL e CDL Jovem
 # Sobre o Projeto
 A ideia do projeto é criar todo o processo que antecede a criação da telas para o desenvolvimeto front-end de usuários que utilizarão o App em seus mobiles.
 ## Personas
+Persona é a representação fictícia do cliente ideal de um negócio. É baseada em dados reais sobre comportamento e características demográficas dos clientes, assim como histórias pessoais, motivações, objetivos, desafios e preocupações. A persona guia a criação de conteúdo e de Marketing Digital. Tendo isso em vista criamos as [Personas da CDL](Requisitos-Personas.md).
 
 ## Mapa de empatia
 ## Histórias de usuários
