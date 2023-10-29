@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Titulo do projeto</h1>
+  <h1>Mugiwaras</h1>
   <a href="https://cdlchapeco.com.br/wp-content/uploads/2020/04/logo-cdl-1536x913.jpg">
   <img
     height="100"
@@ -18,11 +18,8 @@
   <p>Uma parceria da Una com a CDL</p>
  
   <!-- prettier-ignore-start -->
-  [![Code Coverage][coverage-badge]][coverage]
   [![MIT License][license-badge]][license]
-  [![All Contributors][all-contributors-badge]](#autores)
   [![PRs Welcome][prs-badge]][prs]
-  [![Code of Conduct][coc-badge]][coc]
   
   [![Watch on GitHub][github-watch-badge]][github-watch]
   [![Star on GitHub][github-star-badge]][github-star]
