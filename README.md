@@ -32,7 +32,7 @@
 - [Requisitos](#requisitos)
   - [Mapa de empatia](#mapa-de-empatia)
   - [Histórias de usuários](#histórias-de-usuários)
-  - [Cenários](cenarios)
+  - [Cenários](cenários)
   - [Fluxograma](fluxograma)
 - [Teconlogias Usadas](#tecnologias-usadas)
 - [Autores](#autores)
