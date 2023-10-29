@@ -54,6 +54,7 @@ Mapa da Empatia é um material utilizado para conhecer melhor o seu cliente. A p
 Uma história de usuário é uma descrição curta, informal e em linguagem simples de alguma funcionalidade de um sistema sob o ponto de vista do usuário. Utilizadas nos métodos ágeis de desenvolvimento de software, cada história deve ter valor de negócio na visão do cliente e é uma pequena parte da funcionalidade, não necessariamente uma especificação completa, o que minimiza a necessidade de uma extensa documentação. Para a CDL foram fornecidos as seguintes [histórias de usuários](Requisitos-Requisitos-HistoriasUsuario.md). 
 
 ## Cenários 
+
 No projeto da experiência do usuário de produtos digitais, cenários são descrições do uso das interfaces e serviços online que se aproximam de situações reais. São narrativas genéricas e geralmente protagonizadas por personas para refletir diferentes visões do produto final. Para a CDL, verificamos os seguintes [cenários](Requisitos-Cenarios.md).
 
 ## Fluxograma
