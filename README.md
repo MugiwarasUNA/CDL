@@ -41,25 +41,25 @@
 
 A ideia do projeto é criar todo o processo que antecede a criação da telas para o desenvolvimeto front-end de usuários que utilizarão o App em seus mobiles.
 ## Personas
-Persona é a representação fictícia do cliente ideal de um negócio. É baseada em dados reais sobre comportamento e características demográficas dos clientes, assim como histórias pessoais, motivações, objetivos, desafios e preocupações. A persona guia a criação de conteúdo e de Marketing Digital. Tendo isso em vista, criamos as [Personas da CDL](Requisitos-Personas.md).
+Persona é a representação fictícia do cliente ideal de um negócio. É baseada em dados reais sobre comportamento e características demográficas dos clientes, assim como histórias pessoais, motivações, objetivos, desafios e preocupações. A persona guia a criação de conteúdo e de Marketing Digital. Tendo isso em vista, criamos as [Personas da CDL](Requistos/Requisitos-Personas.md).
 
 # Requisitos
 
 ## Mapa de empatia
 
-Mapa da Empatia é um material utilizado para conhecer melhor o seu cliente. A partir do mapa da empatia é possível detalhar a personalidade do cliente e compreendê-la melhor. O mapa da empatia faz 6 perguntas para identificar seu público-alvo e assim conhecer seus sentimentos, dores e necessidades. Tendo isso em vista, criamos o [Mapa de Empatia das Personas CDL](Requisitos-MapaEmpatia.md).
+Mapa da Empatia é um material utilizado para conhecer melhor o seu cliente. A partir do mapa da empatia é possível detalhar a personalidade do cliente e compreendê-la melhor. O mapa da empatia faz 6 perguntas para identificar seu público-alvo e assim conhecer seus sentimentos, dores e necessidades. Tendo isso em vista, criamos o [Mapa de Empatia das Personas CDL](Requistos/Requisitos-MapaEmpatia.md).
 
 ## Histórias de usuários
 
-Uma história de usuário é uma descrição curta, informal e em linguagem simples de alguma funcionalidade de um sistema sob o ponto de vista do usuário. Utilizadas nos métodos ágeis de desenvolvimento de software, cada história deve ter valor de negócio na visão do cliente e é uma pequena parte da funcionalidade, não necessariamente uma especificação completa, o que minimiza a necessidade de uma extensa documentação. Para a CDL foram fornecidos as seguintes [histórias de usuários](Requisitos-Requisitos-HistoriasUsuario.md). 
+Uma história de usuário é uma descrição curta, informal e em linguagem simples de alguma funcionalidade de um sistema sob o ponto de vista do usuário. Utilizadas nos métodos ágeis de desenvolvimento de software, cada história deve ter valor de negócio na visão do cliente e é uma pequena parte da funcionalidade, não necessariamente uma especificação completa, o que minimiza a necessidade de uma extensa documentação. Para a CDL foram fornecidos as seguintes [histórias de usuários](Requistos/Requisitos-Requisitos-HistoriasUsuario.md). 
 
 ## Cenários 
 
-No projeto da experiência do usuário de produtos digitais, cenários são descrições do uso das interfaces e serviços online que se aproximam de situações reais. São narrativas genéricas e geralmente protagonizadas por personas para refletir diferentes visões do produto final. Para a CDL, verificamos os seguintes [cenários](Requisitos-Cenarios.md).
+No projeto da experiência do usuário de produtos digitais, cenários são descrições do uso das interfaces e serviços online que se aproximam de situações reais. São narrativas genéricas e geralmente protagonizadas por personas para refletir diferentes visões do produto final. Para a CDL, verificamos os seguintes [cenários](Requistos/Requisitos-Cenarios.md).
 
 ## Fluxograma
 
-[Link para Requisitos e Cenários](Requisitos-Cenarios.md)
+[Link para Requisitos e Cenários](Requistos/Requisitos-Cenarios.md)
 
 <h1>🏗️ As informações abaixo ainda estão em construção.</h1>
 
