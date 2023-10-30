@@ -51,7 +51,7 @@ Mapa da Empatia é um material utilizado para conhecer melhor o seu cliente. A p
 
 ## Histórias de usuários
 
-Uma história de usuário é uma descrição curta, informal e em linguagem simples de alguma funcionalidade de um sistema sob o ponto de vista do usuário. Utilizadas nos métodos ágeis de desenvolvimento de software, cada história deve ter valor de negócio na visão do cliente e é uma pequena parte da funcionalidade, não necessariamente uma especificação completa, o que minimiza a necessidade de uma extensa documentação. Para a CDL foram fornecidos as seguintes [histórias de usuários](/Requisitos/Requisitos-Requisitos-HistoriasUsuario.md). 
+Uma história de usuário é uma descrição curta, informal e em linguagem simples de alguma funcionalidade de um sistema sob o ponto de vista do usuário. Utilizadas nos métodos ágeis de desenvolvimento de software, cada história deve ter valor de negócio na visão do cliente e é uma pequena parte da funcionalidade, não necessariamente uma especificação completa, o que minimiza a necessidade de uma extensa documentação. Para a CDL foram fornecidos as seguintes [histórias de usuários](/Requisitos/Requisitos-HistoriasUsuario.md). 
 
 ## Cenários 
 
