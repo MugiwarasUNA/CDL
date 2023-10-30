@@ -59,7 +59,7 @@ No projeto da experiência do usuário de produtos digitais, cenários são desc
 
 ## Fluxograma
 
-Um fluxograma é um diagrama que descreve um processo, sistema ou algoritmo de computador. São amplamente utilizados em várias áreas para documentar, estudar, planejar, melhorar e comunicar processos complexos por meio de diagramas claros e fáceis de entender. Para a CDL desenhamos os seguintes [fluxogramas](/Requistos/Requisitos-Cenarios.md).
+Um fluxograma é um diagrama que descreve um processo, sistema ou algoritmo de computador. São amplamente utilizados em várias áreas para documentar, estudar, planejar, melhorar e comunicar processos complexos por meio de diagramas claros e fáceis de entender. Para a CDL desenhamos os seguintes [fluxogramas](/Requisitos/Requisitos-Fluxograma.md).
 
 
 
