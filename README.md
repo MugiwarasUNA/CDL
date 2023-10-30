@@ -47,7 +47,7 @@ Persona é a representação fictícia do cliente ideal de um negócio. É basea
 
 ## Mapa de empatia
 
-Mapa da Empatia é um material utilizado para conhecer melhor o seu cliente. A partir do mapa da empatia é possível detalhar a personalidade do cliente e compreendê-la melhor. O mapa da empatia faz 6 perguntas para identificar seu público-alvo e assim conhecer seus sentimentos, dores e necessidades. Tendo isso em vista, criamos o [Mapa de Empatia das Personas CDL](Requisitos/Requisitos-MapaEmpatia.md).
+Mapa da Empatia é um material utilizado para conhecer melhor o seu cliente. A partir do mapa da empatia é possível detalhar a personalidade do cliente e compreendê-la melhor. O mapa da empatia faz 6 perguntas para identificar seu público-alvo e assim conhecer seus sentimentos, dores e necessidades. Tendo isso em vista, criamos o [Mapa de Empatia das Personas CDL](/Requisitos/Requisitos-MapaEmpatia.md).
 
 ## Histórias de usuários
 
